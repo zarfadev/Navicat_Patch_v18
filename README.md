@@ -1,4 +1,4 @@
-# Navicat Premium Cracker (v17)
+# Navicat Premium Cracker (v18)
 
 ## Overview
 Navicat Premium is a comprehensive database management tool that supports multiple database types such as MySQL, PostgreSQL, SQLite, and more. It offers a user-friendly interface, advanced tools for data modeling, seamless data migration, and an efficient query editor, making it a favorite among developers and database administrators.
@@ -10,11 +10,10 @@ Navicat Premium is a comprehensive database management tool that supports multip
 - **Data Visualization:** Generate detailed reports and charts for data analysis.
 - **Advanced Security Features:** Protect sensitive data with robust encryption.
 
-This guide provides simple and clear instructions to enable Navicat Premium v17 using a custom cracker. With just a few steps, you can unlock the full features of Navicat without limitations.
-This guide provides simple and clear instructions to enable Navicat Premium v17 using a custom cracker. With just a few steps, you can unlock the full features of Navicat without limitations. 
+This guide provides simple and clear instructions to enable Navicat Premium v18 using a custom cracker. With just a few steps, you can unlock the full features of Navicat without limitations.
 
 ### Key Details:
-- **Compatibility:** Navicat v17.3.6 (32-bit and 64-bit systems).
+- **Compatibility:** Navicat v18.0.3 (32-bit and 64-bit systems).
 - **Files Needed:** A patched winmm.dll file that replaces the original.
 - **Purpose:** Quickly set up Navicat with all its features active.
 
@@ -22,8 +21,8 @@ This guide provides simple and clear instructions to enable Navicat Premium v17 
 
 ## Prerequisites
 
-1. **Download Navicat v17:**
-   - Get version 17 of Navicat from its [official website](https://www.navicat.com/store/navicat-premium-plan)
+1. **Download Navicat v18:**
+   - Get version 18 of Navicat from its [official website](https://www.navicat.com/en/download/navicat-premium)
 
 2. **Download the resouce:**
    - Obtain the required files from [download resouce](https://github.com/zarfadev/Navicat_Patch_v17/blob/main/Navicat_17.x.zip).
@@ -54,11 +53,11 @@ This guide provides simple and clear instructions to enable Navicat Premium v17 
 ## Important Notes
 
 1. **Version Compatibility:**
-   - This cracker has been verified for Navicat version **17.3.6**.
+   - This cracker has been verified for Navicat version **18.0.3**.
    - Ensure that your version is compatible.
 
->Latest Verified Version：V17.3.6
-<img src="./tested.png">
+>Latest Verified Version：V18.0.3
+<img src="./tested-v18.jpeg">
 
 2. **Select the Correct File:**
    - Verify whether your system is 32-bit or 64-bit to avoid errors when using the DLL file.
